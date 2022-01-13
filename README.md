@@ -4,9 +4,8 @@ Repositorio del GRUPO 3 - `Trello https://trello.com/b/iiU1ljYT/grupo3`
 - 🤔 Universidad: UTN-FRLP
 - 💬 Esta totalmente publico, van a poder ver el progreso.
 - 😄 Integrantes - `[6]`:
-                      - `Florencia Fried`
-                      - `Ramiro Cerdá`
+                      - `Joaco Pamphile`
                       - `Yoel Almirón`
-                      - `Francisco Montero`
-                      - `Javier Gimenez`
-                      - `Lucas Perrino `
+                      - `Federico Nagua`
+                      - `Gianfranco Carzolio`
+
