@@ -3,7 +3,7 @@ Repositorio del GRUPO 3 - `Trello https://trello.com/b/iiU1ljYT/grupo3`
 - 🔭 Este repositorio es para nuestro proyecto.
 - 🤔 Universidad: UTN-FRLP
 - 💬 Esta totalmente publico, van a poder ver el progreso.
-- 😄 Integrantes - `[6]`:
+- 😄 Integrantes - `[4]`:
                       - `Joaco Pamphile`
                       - `Yoel Almirón`
                       - `Federico Nagua`
